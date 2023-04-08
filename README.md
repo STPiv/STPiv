@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @STPiv (Smith T Powell IV)
 - 👀 I’m interested in: Hockey, SciFi, CliFi, Complexity Science, Computer Science, Technology Management, Small Business
-- 🌱 I’m currently learning about: GitHub, GitLab, Processing, Google Apps, VBA, 
+- 🌱 I’m currently learning about: GitHub, GitLab, Processing, Google Apps, VBA, Python, Java, and AutoCAD
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
